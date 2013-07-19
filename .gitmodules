@@ -1,27 +1,44 @@
 [submodule "managedit-openstack-setup"]
 	path = managedit-openstack-setup
 	url = https://github.com/managedit/openstack-setup.git
+    ignore = dirty
 [submodule "devstack"]
 	path = devstack
 	url = https://github.com/openstack-dev/devstack.git
+    ignore = dirty
 [submodule "packstack"]
 	path = packstack
 	url = https://github.com/stackforge/packstack.git
+    ignore = dirty
 [submodule "openstackgeek"]
 	path = openstackgeek
 	url = https://github.com/StackGeek/openstackgeek.git
+    ignore = dirty
 [submodule "openstack_folsom_deploy"]
 	path = openstack_folsom_deploy
 	url = https://github.com/jedipunkz/openstack_folsom_deploy.git
+    ignore = dirty
 [submodule "dodai-deploy"]
 	path = dodai-deploy
 	url = https://github.com/nii-cloud/dodai-deploy.git
+    ignore = dirty
 [submodule "puppet-openstack"]
 	path = puppet-openstack
 	url = https://github.com/stackforge/puppet-openstack.git
+    ignore = dirty
 [submodule "OneStack"]
 	path = OneStack
 	url = https://github.com/Kayven/OneStack.git
+    ignore = dirty
 [submodule "EmilienM-doc-openstack"]
 	path = EmilienM-doc-openstack
 	url = https://github.com/EmilienM/doc-openstack.git
+    ignore = dirty
+[submodule "openstack-scripts"]
+	path = openstack-scripts
+	url = https://github.com/neophilo/openstack-scripts.git
+    ignore = dirty
+[submodule "OpenStackInstaller"]
+	path = OpenStackInstaller
+	url = https://github.com/uksysadmin/OpenStackInstaller.git
+    ignore = dirty
