@@ -42,3 +42,11 @@
 	path = OpenStackInstaller
 	url = https://github.com/uksysadmin/OpenStackInstaller.git
     ignore = dirty
+[submodule "redhat-openstack-utils"]
+	path = redhat-openstack-utils
+	url = https://github.com/redhat-openstack/openstack-utils.git
+    ignore = dirty
+[submodule "cloudbuilders-openstack-puppet"]
+	path = cloudbuilders-openstack-puppet
+	url = https://github.com/cloudbuilders/openstack-puppet.git
+    ignore = dirty
